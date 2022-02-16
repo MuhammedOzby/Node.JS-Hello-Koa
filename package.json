@@ -1,0 +1,20 @@
+{
+  "name": "node.js-hello-koa",
+  "version": "1.0.0",
+  "description": "Patika.dev üzerinden almakta oldğum. \"Node.JS\" modülünün, \"Node.js'in Temelleri\" bölümünün, dördüncü (Ödev 6 - Koa.js ile Web Sunucusu Yazımı) ödevidir.",
+  "main": "main.js",
+  "scripts": {
+    "test": "nodemon main.js"
+  },
+  "keywords": [
+    "patika-dev",
+    "nodejs",
+    "koa-get-started"
+  ],
+  "author": "Muhammed Mustafa ÖZBAY",
+  "license": "MIT",
+  "dependencies": {
+    "@koa/router": "^10.1.1",
+    "koa": "^2.13.4"
+  }
+}
